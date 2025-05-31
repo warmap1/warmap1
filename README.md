@@ -7,14 +7,14 @@ Languages: Russian, English, Ukrainian <sub>*(still learning)*</sub>
 
 ## 🛠 Tech Stack
 
-Languages: Python, Rust, C <sub>(just started)</sub>
+Languages: Python, Rust, C <sub>*(maybe some time in the future)*</sub>
 
-Interests: Cybersecurity, Networking, Internet blocks and ways to bypass them
+Interests: bot development, making some stuff with Arduino
 
 
 ## 📂 Projects
 
-Here are a few notable projects I'm <sub>~*(not really)*~</sub> working on:
+Here are a few notable projects I made:
 
 **[pkgman](https://github.com/warmap1/pkgman)** — A custom package manager for easily installing apt and AUR packages on Arch-based systems 
 
