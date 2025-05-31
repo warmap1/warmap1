@@ -5,7 +5,7 @@ I'm a passionate self-taught developer with a focus on automation, scripting, an
 Languages: Russian, English, Ukrainian <sub>*(still learning)*</sub>
 
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Languages: Python, Rust, C <sub>(just started)</sub>
 
